@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 55000,
+    "description": "High-performance laptop with 16GB RAM and 512GB SSD.",
+    "image": "https://via.placeholder.com/250x150?text=Laptop"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 25000,
+    "description": "Latest 5G smartphone with AMOLED display and 128GB storage.",
+    "image": "https://via.placeholder.com/250x150?text=Smartphone"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 3500,
+    "description": "Noise cancelling wireless headphones with 20h battery.",
+    "image": "https://via.placeholder.com/250x150?text=Headphones"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 12000,
+    "description": "Water-resistant smartwatch with heart-rate monitoring.",
+    "image": "https://via.placeholder.com/250x150?text=Smartwatch"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "price": 2200,
+    "description": "RGB wired gaming mouse with 8 programmable buttons.",
+    "image": "https://via.placeholder.com/250x150?text=Gaming+Mouse"
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard",
+    "price": 4500,
+    "description": "Backlit mechanical keyboard with blue switches.",
+    "image": "https://via.placeholder.com/250x150?text=Keyboard"
+  }
+]
